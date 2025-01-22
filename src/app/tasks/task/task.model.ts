@@ -5,3 +5,9 @@ export interface data {
   summary:string,
   dueDate:string,
 }
+
+export interface taskData {
+  title :string,
+  summery :string,
+  date :string,
+}
